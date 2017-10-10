@@ -1,0 +1,6 @@
+C:\Users\ansab.iqbal\Documents\Visual Studio 2015\Projects\Console Projects\TimeZonesDemoForCampaigns\TimeZonesDemoForCampaigns\bin\Debug\TimeZonesDemoForCampaigns.exe.config
+C:\Users\ansab.iqbal\Documents\Visual Studio 2015\Projects\Console Projects\TimeZonesDemoForCampaigns\TimeZonesDemoForCampaigns\bin\Debug\TimeZonesDemoForCampaigns.exe
+C:\Users\ansab.iqbal\Documents\Visual Studio 2015\Projects\Console Projects\TimeZonesDemoForCampaigns\TimeZonesDemoForCampaigns\bin\Debug\TimeZonesDemoForCampaigns.pdb
+C:\Users\ansab.iqbal\Documents\Visual Studio 2015\Projects\Console Projects\TimeZonesDemoForCampaigns\TimeZonesDemoForCampaigns\obj\Debug\TimeZonesDemoForCampaigns.csprojResolveAssemblyReference.cache
+C:\Users\ansab.iqbal\Documents\Visual Studio 2015\Projects\Console Projects\TimeZonesDemoForCampaigns\TimeZonesDemoForCampaigns\obj\Debug\TimeZonesDemoForCampaigns.exe
+C:\Users\ansab.iqbal\Documents\Visual Studio 2015\Projects\Console Projects\TimeZonesDemoForCampaigns\TimeZonesDemoForCampaigns\obj\Debug\TimeZonesDemoForCampaigns.pdb
